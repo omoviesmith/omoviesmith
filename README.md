@@ -103,7 +103,9 @@ Where possible, I share public demos, sanitized code samples, portfolio summarie
 I have worked with clients and teams across:
 
 - Australia
+- Germany
 - Spain
+- South Africa
 - United States
 - United Kingdom
 - Global freelance and remote marketplaces
